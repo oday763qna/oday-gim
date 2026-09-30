@@ -1,0 +1,8 @@
+{
+  "name": "Ode Gym AI",
+  "description": "المحرك الذكي الرسمي لتطبيق Ode Gym AI لمساعدة لاعبي كمال الأجسام واللياقة في تنظيم التمارين، تحليل الوجبات، وتتبع الأداء بدقة وموثوقية فائقة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
